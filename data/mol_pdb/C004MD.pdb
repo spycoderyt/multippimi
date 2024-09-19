@@ -1,0 +1,74 @@
+COMPND    68000881
+HETATM    1 CL1  UNL     1       1.428   0.338  -5.428  1.00  0.00          CL  
+HETATM    2 CL2  UNL     1      -3.979   2.150   0.029  1.00  0.00          CL  
+HETATM    3 CL3  UNL     1       3.831  -5.392   1.134  1.00  0.00          CL  
+HETATM    4  S1  UNL     1      -2.489  -0.649  -0.652  1.00  0.00           S  
+HETATM    5  O1  UNL     1      -1.351   1.669   2.359  1.00  0.00           O  
+HETATM    6  O2  UNL     1      -2.131  -1.956  -1.174  1.00  0.00           O  
+HETATM    7  O3  UNL     1      -1.771   0.536  -1.088  1.00  0.00           O  
+HETATM    8  O4  UNL     1       3.663   3.151   1.223  1.00  0.00           O  
+HETATM    9  O5  UNL     1       2.590   4.875   2.249  1.00  0.00           O  
+HETATM   10  N1  UNL     1      -0.100   0.097   1.200  1.00  0.00           N  
+HETATM   11  C1  UNL     1      -0.985  -1.077   3.127  1.00  0.00           C  
+HETATM   12  C2  UNL     1      -1.005  -0.975   1.627  1.00  0.00           C  
+HETATM   13  C3  UNL     1      -0.681  -2.399   3.767  1.00  0.00           C  
+HETATM   14  C4  UNL     1      -2.072  -1.839   3.824  1.00  0.00           C  
+HETATM   15  C5  UNL     1       0.857  -0.239   0.109  1.00  0.00           C  
+HETATM   16  C6  UNL     1       0.564   2.515   1.193  1.00  0.00           C  
+HETATM   17  C7  UNL     1       1.859   0.887  -0.246  1.00  0.00           C  
+HETATM   18  C8  UNL     1      -2.421  -0.736   1.111  1.00  0.00           C  
+HETATM   19  C9  UNL     1       1.155   2.243  -0.195  1.00  0.00           C  
+HETATM   20  C10 UNL     1      -0.403   1.401   1.613  1.00  0.00           C  
+HETATM   21  C11 UNL     1       1.650   2.626   2.278  1.00  0.00           C  
+HETATM   22  C12 UNL     1       1.608  -1.542   0.369  1.00  0.00           C  
+HETATM   23  C13 UNL     1      -0.195   3.856   1.132  1.00  0.00           C  
+HETATM   24  C14 UNL     1       2.532   0.669  -1.597  1.00  0.00           C  
+HETATM   25  C15 UNL     1       2.044  -1.851   1.657  1.00  0.00           C  
+HETATM   26  C16 UNL     1       1.859  -2.424  -0.682  1.00  0.00           C  
+HETATM   27  C17 UNL     1      -4.200  -0.372  -1.001  1.00  0.00           C  
+HETATM   28  C18 UNL     1       2.648   3.694   1.942  1.00  0.00           C  
+HETATM   29  C19 UNL     1       1.762   0.611  -2.759  1.00  0.00           C  
+HETATM   30  C20 UNL     1       3.918   0.527  -1.671  1.00  0.00           C  
+HETATM   31  C21 UNL     1       2.731  -3.042   1.894  1.00  0.00           C  
+HETATM   32  C22 UNL     1       2.545  -3.615  -0.446  1.00  0.00           C  
+HETATM   33  C23 UNL     1       2.377   0.411  -3.994  1.00  0.00           C  
+HETATM   34  C24 UNL     1       4.533   0.327  -2.907  1.00  0.00           C  
+HETATM   35  C25 UNL     1      -4.829   0.837  -0.704  1.00  0.00           C  
+HETATM   36  C26 UNL     1      -4.923  -1.408  -1.593  1.00  0.00           C  
+HETATM   37  C27 UNL     1       2.981  -3.924   0.843  1.00  0.00           C  
+HETATM   38  C28 UNL     1       3.763   0.269  -4.068  1.00  0.00           C  
+HETATM   39  C29 UNL     1      -6.181   1.010  -0.998  1.00  0.00           C  
+HETATM   40  C30 UNL     1      -6.276  -1.234  -1.887  1.00  0.00           C  
+HETATM   41  C31 UNL     1      -6.905  -0.026  -1.589  1.00  0.00           C  
+CONECT    1   33
+CONECT    2   35
+CONECT    3   37
+CONECT    4    6    6    7    7
+CONECT    4   18   27
+CONECT    5   20   20
+CONECT    8   28
+CONECT    9   28   28
+CONECT   10   12   15   20
+CONECT   11   12   13   14
+CONECT   12   18
+CONECT   13   14
+CONECT   15   17   22
+CONECT   16   19   20   21   23
+CONECT   17   19   24
+CONECT   21   28
+CONECT   22   25   25   26
+CONECT   24   29   29   30
+CONECT   25   31
+CONECT   26   32   32
+CONECT   27   35   35   36
+CONECT   29   33
+CONECT   30   34   34
+CONECT   31   37   37
+CONECT   32   37
+CONECT   33   38   38
+CONECT   34   38
+CONECT   35   39
+CONECT   36   40   40
+CONECT   39   41   41
+CONECT   40   41
+END

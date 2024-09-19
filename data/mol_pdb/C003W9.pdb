@@ -1,0 +1,75 @@
+COMPND    56673738
+HETATM    1 CL1  UNL     1      -2.903  -0.391  -5.674  1.00  0.00          CL  
+HETATM    2 CL2  UNL     1       0.028   7.311   2.609  1.00  0.00          CL  
+HETATM    3  O1  UNL     1      -6.639  -3.153   1.572  1.00  0.00           O  
+HETATM    4  O2  UNL     1      -0.006  -1.671   1.756  1.00  0.00           O  
+HETATM    5  O3  UNL     1       2.569  -1.666  -1.412  1.00  0.00           O  
+HETATM    6  O4  UNL     1       5.224  -3.373   2.157  1.00  0.00           O  
+HETATM    7  N1  UNL     1       0.138   0.179   0.333  1.00  0.00           N  
+HETATM    8  N2  UNL     1       1.915   1.518  -0.274  1.00  0.00           N  
+HETATM    9  N3  UNL     1      -4.098  -1.884   1.744  1.00  0.00           N  
+HETATM   10  C1  UNL     1      -0.486   1.272  -0.403  1.00  0.00           C  
+HETATM   11  C2  UNL     1       0.677   2.264  -0.621  1.00  0.00           C  
+HETATM   12  C3  UNL     1       1.524   0.396   0.250  1.00  0.00           C  
+HETATM   13  C4  UNL     1      -1.094   0.854  -1.733  1.00  0.00           C  
+HETATM   14  C5  UNL     1      -0.547  -0.812   1.057  1.00  0.00           C  
+HETATM   15  C6  UNL     1       0.512   3.533   0.193  1.00  0.00           C  
+HETATM   16  C7  UNL     1      -2.054  -0.779   0.969  1.00  0.00           C  
+HETATM   17  C8  UNL     1      -2.638  -1.910   1.804  1.00  0.00           C  
+HETATM   18  C9  UNL     1       2.490  -0.594   0.733  1.00  0.00           C  
+HETATM   19  C10 UNL     1      -4.680  -2.596   2.890  1.00  0.00           C  
+HETATM   20  C11 UNL     1      -4.579  -2.474   0.487  1.00  0.00           C  
+HETATM   21  C12 UNL     1      -0.598  -0.262  -2.407  1.00  0.00           C  
+HETATM   22  C13 UNL     1      -2.150   1.585  -2.278  1.00  0.00           C  
+HETATM   23  C14 UNL     1       1.040   3.609   1.481  1.00  0.00           C  
+HETATM   24  C15 UNL     1      -0.166   4.625  -0.349  1.00  0.00           C  
+HETATM   25  C16 UNL     1      -6.203  -2.567   2.799  1.00  0.00           C  
+HETATM   26  C17 UNL     1      -6.104  -2.446   0.453  1.00  0.00           C  
+HETATM   27  C18 UNL     1       2.978  -1.589  -0.114  1.00  0.00           C  
+HETATM   28  C19 UNL     1       2.920  -0.533   2.058  1.00  0.00           C  
+HETATM   29  C20 UNL     1      -1.156  -0.646  -3.626  1.00  0.00           C  
+HETATM   30  C21 UNL     1      -2.709   1.200  -3.497  1.00  0.00           C  
+HETATM   31  C22 UNL     1       0.890   4.777   2.229  1.00  0.00           C  
+HETATM   32  C23 UNL     1      -0.316   5.793   0.399  1.00  0.00           C  
+HETATM   33  C24 UNL     1      -2.212   0.085  -4.171  1.00  0.00           C  
+HETATM   34  C25 UNL     1       3.897  -2.523   0.365  1.00  0.00           C  
+HETATM   35  C26 UNL     1       3.839  -1.467   2.537  1.00  0.00           C  
+HETATM   36  C27 UNL     1       0.212   5.869   1.688  1.00  0.00           C  
+HETATM   37  C28 UNL     1       4.327  -2.462   1.690  1.00  0.00           C  
+HETATM   38  C29 UNL     1       3.576  -1.549  -2.416  1.00  0.00           C  
+HETATM   39  C30 UNL     1       3.616  -2.829  -3.236  1.00  0.00           C  
+HETATM   40  C31 UNL     1       3.283  -0.331  -3.279  1.00  0.00           C  
+HETATM   41  C32 UNL     1       5.682  -4.364   1.238  1.00  0.00           C  
+CONECT    1   33
+CONECT    2   36
+CONECT    3   25   26
+CONECT    4   14   14
+CONECT    5   27   38
+CONECT    6   37   41
+CONECT    7   10   12   14
+CONECT    8   11   12   12
+CONECT    9   17   19   20
+CONECT   10   11   13
+CONECT   11   15
+CONECT   12   18
+CONECT   13   21   21   22
+CONECT   14   16
+CONECT   15   23   23   24
+CONECT   16   17
+CONECT   18   27   27   28
+CONECT   19   25
+CONECT   20   26
+CONECT   21   29
+CONECT   22   30   30
+CONECT   23   31
+CONECT   24   32   32
+CONECT   27   34
+CONECT   28   35   35
+CONECT   29   33   33
+CONECT   30   33
+CONECT   31   36   36
+CONECT   32   36
+CONECT   34   37   37
+CONECT   35   37
+CONECT   38   39   40
+END
